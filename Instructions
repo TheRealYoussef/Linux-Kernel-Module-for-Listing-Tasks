@@ -4,7 +4,7 @@ ListTasksLinear.c
 ListTasksDFS.c
 
 Compiling:
-1- Make sure all 3 files are in the same folder.
+1- Make sure all 3 files are in the same folder
 2- Open terminal in that folder
 3- Run the command "make"
 
