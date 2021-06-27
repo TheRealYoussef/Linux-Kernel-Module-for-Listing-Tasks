@@ -2,6 +2,7 @@
 #include <linux/init.h>
 #include <linux/kernel.h>
 #include <linux/module.h>
+#include <linux/sched/signal.h>
 
 /* This function is called when the module is loaded. */
 int entryPoint(void) {
